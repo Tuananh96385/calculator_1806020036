@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_input" type="id"></item>
+    <item name="tv_result" type="id"></item>
+    <item name="btnNumber1" type="id"></item>
+    <item name="btnNumber2" type="id"></item>
+    <item name="btnNumber3" type="id"></item>
+    <item name="btnNumber4" type="id"></item>
+    <item name="btnNumber5" type="id"></item>
+    <item name="btnNumber6" type="id"></item>
+    <item name="btnNumber7" type="id"></item>
+    <item name="btnNumber8" type="id"></item>
+    <item name="btnNumber9" type="id"></item>
+    <item name="btnNumber0" type="id"></item>
+    <item name="btnCong" type="id"></item>
+    <item name="btnClear" type="id"></item>
+    <item name="btnTru" type="id"></item>
+    <item name="btnClearAll" type="id"></item>
+    <item name="btnNhan" type="id"></item>
+    <item name="btnChia" type="id"></item>
+    <item name="btnPoint" type="id"></item>
+
+
+
+</resources>
